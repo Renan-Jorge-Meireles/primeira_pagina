@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+h1
+    {text-align: center;}
+
+header
+    {background-color: hsl(0, 9%, 83%);
+    position: relative;
+    height: 300px;
+}
+
+
+main{
+    background-color: hsl(0, 9%, 83%);
+}
+ 
+footer{
+    background-color: gray;
+}
+
+.logotipo{
+    position: absolute;
+    left: 750px;
+    top: 15px;
+}
+
+.imagem1{
+    position: relative;
+    left: 650px;;
+}
+
+.imagem2{
+   position: relative;
+   left: 650px; }
+     
+
